@@ -1,6 +1,6 @@
 AutoCruise
 ==========
-A Single-Input Single-Output Mamdani Fuzzy Inference system which attempts to perform automated driving.
+A Single-Input Single-Output Mamdani Fuzzy Inference system which performs automated driving.
 
 Description
 -----------
